@@ -470,6 +470,7 @@
 				3843582618FEB89A0026E5DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3843582718FEB89A0026E5DD /* Build configuration list for PBXNativeTarget "Test123Tests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +479,7 @@
 				3843582918FEB89A0026E5DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
